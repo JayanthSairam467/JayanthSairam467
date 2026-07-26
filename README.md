@@ -44,7 +44,7 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=6&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JayanthSairam467&theme=tokyonight&column=6&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -52,19 +52,19 @@
 ### 📊 Real-Time GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayanthSairam467ITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthSairam467&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=JayanthSairam467&theme=tokyonight" />
 </div>
 
 ---
 
 ### 🔥 Contribution Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JayanthSairam467/JayanthSairam467/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
