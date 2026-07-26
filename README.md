@@ -64,7 +64,7 @@
 
 ---
 
-### 🔥 Contribution Activity
-<!--<p align="center">
+<!--### 🔥 Contribution Activity
+<p align="center">
   <img src="https://raw.githubusercontent.com/JayanthSairam467/JayanthSairam467/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>-->
